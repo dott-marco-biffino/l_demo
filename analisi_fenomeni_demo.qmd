@@ -1,5 +1,86 @@
 --- 
- title:  analisi_fenomeni_demo 
+ title:  Analisi elementare dei fenomeni demografici
 ---
 
- Materiale in preparazione 
+Qualsiasi carattere di natura demografica o sociale che venga rilevato in un censimento o in altro tipo di rilevazione di stato può essere usato per ripartire la popolazione in gruppi significativi. Noi ci limitiamo all'età, al sesso e allo stato civile.
+
+## Struttura per età
+
+La struttura per età di una popolazione è la distribuzione percentuale dei suoi componenti rispetto all'età (di solito distinta anche per sesso). 
+
+Essa ci interessa perché tutti i fenomeni demografici dipendono dall'età e sono, di conseguenza, correlate con la struttura per età. Ad esempio:
+
+- tasso di mortalità dipende dal livello di salute individuale sia dall'efficacia del sistema sanitario, ma è intuitivo che in una popolazione in cui prevalgono le classi giovani si osserveranno meno decessi rispetto ad una in cui prevalgono quelle anziane;
+
+- a parità di preferenze e scelte delle coppie  relative alla prolificazione, si osserverà un maggior numero di nascite in una popolazione giovane rispetto ad una anziana.
+
+La struttura per età è, naturalmente, funzione della storia passata vissuta dalla popolazione. In una popolazione chiusa la struttura attuale è condizionata dall'andamento del flusso delle nascite nei passati cento anni e dall'intensità dei decessi secondo l'età subita nel medesimo periodo.
+
+Trascurando per il momento la mobilità, è necessario individuare alcune tipologie di struttura per età attorno alle quali si dispongono le popolazioni reali.
+
+Popolazione stazionaria: i flussi si pareggiano e l'incremento è nullo. In tali condizioni quanto più alta è l'intensità dei flussi tanto più giovane è la struttura per età e tanto minore è la permanenza in media in vita di ogni suo individuo, e viceversa. 
+
+Se, invece, il tasso di natalità si attenua progressivamente e il tasso di mortalità rimane invariato (oppure varia in modo proporzionale alle varie età),  il peso delle classi anziane tende ad aumentare e quello delle giovani diminuisce. Se, ancora, la natalità rimane costante e la mortalità si riduce in alcune classi di età piuttosto che in altre, allora aumenta il peso delle classi nelle quali la riduzione della mortalità è stata maggiore.
+
+La distribuzione per età può essere rappresentata mediante una curva, più adatta a rappresentare modelli teorici e strutture tipo, oppure e più spesso mediante un istogramma. L'istogramma è detto piramide di età ed è preferito per raffigurare la struttura per età delle popolazioni reali.
+
+Tipologie di struttura: fig. 5.2
+
+- popolazione storica stazionaria
+
+- popolazione progressiva di transizione
+
+- popolazione matura stazionaria (situazione di debolissimo ricambio)
+
+Esame di alcuni casi concreti: è necessario mettere in relazione le informazioni sulla consistenza numerica di una certa classe con gli eventi storici vissuti considerando sia l'età raggiunta sia gli anni di nascita degli individui.
+
+- piramide pop. italiana 1997, fig. 5.4
+
+- piramide pop. russa 1992, fig. 5.5
+
+- piramidi delle province di Torino e Catanzaro 1961,fig. 5.6
+
+### Indici di struttura per età
+
+**Età media**, cioè media aritmetica delle età ponderata^[Nel caso della sintesi della struttura per età è improprio parlare di media ponderata. In realtà quando si parla di pesi e di medie ponderate, di solito, si fa riferimento a quantità che nulla hanno a che vedere con le frequenze assolute o relative: in questo caso la consistenza numerica della popolazione è esattamente una frequenza, teorica o reale poco importa. Se volessimo calcolare il prezzo medio della frutta in un supermercato non sarebbe appropriato calcolare la media semplice dei prezzi, cioè $\overline{p} = \frac{1}{k}\sum_i p_i$, perché essa attribuisce ad ognuna la stessa “importanza” mentre l'intuizione suggerisce che si vendano più mele che ananas. Allora vorremmo che il prezzo delle mele avesse un “peso” maggiore  rispetto a quello dell'ananas e tale peso potrebbe essere determinato in modo arbitrario sulla base delle preferenze individuali, oppure sulla base di criteri oggettivi quali le quantità vendute: in tal caso il peso da attribuire a ciascun prezzo deve essere determinato dividendo la quantità venduta di ogni qualità per la quantità totale di frutta venduta, cioè $w_i = \frac{q_i}{\sum_i q_i}$. La media dei prezzi della frutta ponderata con le quantità vendute è $\overline{p}' = \sum_i p_i w_i$ e questo calcolo non è tecnicamente diverso da quello di una media aritmetica con le frequenze relative salva la sostituzione di queste con i pesi. Nello studio della nuzialità e degli altri fenomeni si calcolano delle vere medie ponderate aventi i tassi specifici come pesi.] con l'ammontare della popolazione in ciascuna classe di età. Supponendo che le classi abbiano tutte la stessa ampiezza di $n$ anni, l'età media si calcola mediante la seguente $$\overline{x} = \sum \left(x + \frac{n}{2} \right) \cdot \frac{P_{x,\,x+n}}{\sum P_{x,\,x+n}}$$
+
+nella quale $\left(x + \frac{n}{2} \right)$  è l'età centrale della classe $[x,\, x+n)$ e le quantità $\frac{P_{x,\,x+n}}{\sum P_{x,\,x+n}}$ rappresentano i pesi da attribuire a ciascuna classe.
+
+**Età mediana**, ovvero l'età che bipartisce esattamente la popolazione i cui componenti siano ordinati in ordine secondo la scala dell'età.
+
+**Indice di vecchiaia**: $$IV = \frac{P_{65+}}{P_{0-14}}\cdot 100$$ Talvolta sono usati gli indici anche $\frac{P_{65+}}{P}$  o $\frac{P_{60+}}{P}$.
+
+**Indice demografico di dipendenza** definito come rapporto tra il numero degli individui presumibilmente non autonomi, cioè anziani e giovanissimi, e il numero di individui attivi: $$ID = \frac{P_{0-14} + P_{65+}}{P_{15-64}} \cdot 100$$
+
+**indice di struttura della popolazione attiva**: $$IS = \frac{P_{40-64}}{P_{15-39}} \cdot 100$$
+
+**indice di ricambio della popolazione attiva**: $$IR = \frac{P_{60-64}}{P_{15-19}} \cdot 100$$
+
+**indice di carico di figli per donna feconda**: $$IC = \frac{P_{0-4}}{^fP_{15-49}} \cdot 100$$
+
+## Struttura per sesso della popolazione
+Essa è determinata:
+
+- dalla struttura per sesso delle nascite, che è fissa a 106 maschi ogni 100 femmine, essendo determinata da fattori genetici;
+
+- dalle differenze nella mortalità e nella migratorietà maschile e femminile.
+
+Rapporti di mascolinità ($^mP / ^fP \cdot 100$) per ciascuna classe di età si prestano ad una rappresentazione grafica che consente di trarre molte conclusioni, cfr. fig. 5.7 e commento pp. 86-87
+
+## Struttura per stato civile
+
+Essa può essere ricavata riportando la distribuzione relativa  separatamente per maschi e femmine in ciascuna classe di età secondo le condizioni celibe(nubile)/coniugati/separati/divorziati/vedovi. Anche questa si presta ad una rappresentazione grafica interessante, cfr. fig. 5.8.
+
+## Tassi generici e tassi specifici
+
+I **tassi generici** sono definiti come rapporto fra numero di eventi vissuti in un periodo e la popolazione media del periodo. Essi sono misure rozze dei fenomeni demografici.
+
+Al fine di permettere un'analisi più accurata e di consentire un più preciso confronto in popolazioni distinte, è possibile raffinare le misure in questione calcolando misure riferite a sotto popolazioni più omogenee rispetto all'età. Si definisce **tasso specifico**  il rapporto fra il numero di eventi vissuti dagli individui appartenenti alla classe di età $[x,\,x+n)$ in un periodo fissato e il numero medio di individui della classe $[x,\,x+n)$ nello stesso periodo.
+
+## Confronto fra tassi con il metodo della popolazione tipo
+
+Avendo calcolato il tasso generico di un fenomeno in due popolazioni, l'eventuale differenza riscontrata fra i suddetti tassi  potrebbe non essere significativa a causa della diversa struttura per età delle due popolazioni. Occorre rendere comparabili i tassi generici, ricorrendo ai tassi specifici per età e alla struttura per età di una popolazione assunta come riferimento e detta popolazione tipo e calcolando dei tassi standardizzati o normalizzati calcolando le medie ponderate dei tassi specifici delle due popolazioni usando come pesi la struttura per età della popolazione tipo. 
+Vedi es. p. 95 e tabella p. 96 per i tassi di mortalità della Liguria e della Campania nel 1981.
+Naturalmente sorge il problema della scelta della popolazione tipo. Una scelta impropria può portare a risultati controversi.
+
+Risulta inoltre che ogni tasso generico riesce una media aritmetica dei tassi specifici ponderata con le popolazioni medie.

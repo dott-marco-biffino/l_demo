@@ -1,5 +1,75 @@
 --- 
- title:  concetti_strumenti 
+ title:  Concetti e strumenti di analisi
 ---
 
- Materiale in preparazione 
+## Misura dell'età e del tempo
+
+Tanto per la **misura dell'età** quanto per il **tempo** è possibile utilizzare vari criteri al fine di collocare le persone e gli eventi:
+
+- *arrotondamento al compleanno più vicino*, in tal caso una persona che dichiara 20 anni può avere vissuto da 19 anni e mezzo fino a 20 anni e mezzo meno un istante;
+
+- *anni compiuti*, in tal caso chi dichiara 20 anni può avere vissuto da 20 anni esatti fino a 21 anni meno un istante;
+
+- *anni iniziati* (cifra ordinale), in tal caso la persona che dichiara 20 anni può avere vissuto da 19 anni esatti fino a 20 anni meno un istante;
+
+- *differenza in millesimi tra l'anno in cui si rivolge la domanda e l'anno di nascita* e in tal caso chi dichiara 20 anni può avere vissuto da 19 anni più un istante a 21 anni meno un istante.
+
+Il criterio ormai comunemente accettato è quello degli anni compiuti, tuttavia non è sempre stato così e non sono rari i casi in cui occorre usare gli altri criteri. 
+
+Non solo, anche in pubblicazioni ufficiali talvolta si possono incontrare strane combinazioni dei vari criteri. A pag. 52 è riportata una tabella che mostra  classificazioni secondo diversi criteri di misura, le quali risultano equivalenti fra loro. Importante è anche l'esempio sulla misura del tempo trascorso fra due eventi che si trova in alto a p. 53.
+
+## Diagramma di Lexis
+
+La biografia di una persona può essere rappresentata mediante una linea in un piano cartesiano nel quale in ascissa siano riportati i tempi (anni di calendario) e in ordinata l'età raggiunta dall'individuo. Tale linea è detta *linea di vita*. Alcuni esempi sono illustrati in @fig-lv.
+
+![Linee di vita nel piano tempo-età](figures/linee_vita.png){#fig-lv}
+
+Pensando ad una collettività di individui possiamo immaginare il piano cartesiano tempo-età attraversato da tante linee di vita quanti sono gli individui ognuna delle quali ha una lunghezza proporzionale alla durata di vita dell'individuo che rappresenta. Tale sistema permette, anche se in modo non univoco, di rappresentare vari eventi relativi alla vita umana:
+
+- nascita, quando una linea parte dall'asse delle ascisse, cioè da uno  dei punti in cui l'età è 0 (linee A-B e C-D in @fig-lv);
+
+- immigrazione, quando una linea parte da un qualsiasi altro punto del piano (linea E-F in @fig-lv);
+
+- morte o emigrazione quando una linea si interrompe ad un tempo $t$ successivo alla nascita (linee C-D ef E-F in @fig-lv).
+
+Tale rappresentazione consente anche di:
+
+- individuare i *sopravviventi ad una data specificata*, cioè i contemporanei, mediante il numero delle linee che intersecano la retta verticale corrispondente a tale data,
+
+- individuare il *flusso di individui che superano un'età prefissata* mediante il conteggio delle linee di vita che intersecano la retta orizzontale corrispondente a tale età.
+
+Rinunciando alla rappresentazione delle singole linee di vita, tale schematizzazione può essere adattata a visualizzare i dati contabili necessari per l'analisi demografica, dando origine alla rappresentazione grafica detta **diagramma di Lexis**. 
+
+Nel caso della mortalità in una popolazione, si ha che 
+
+- le superfici di qualsiasi forma rappresentano i decessi ,
+
+- i segmenti verticali identificano gli individui che in dato istante sono tutti contemporaneamente in vita, perciò costituiscono le linee dei contemporanei,
+
+- i segmenti orizzontali identificano gli individui che hanno la stessa età sebbene in momenti diversi, sono perciò detti linee dei coetanei.
+
+Per estensioni del diagramma di Lexis alla descrizione di altri fenomeni demografici, cfr. punti 1-4 pp. 58-60.
+
+Chiamiamo **generazione** l'insieme degli individui nati in uno stesso anno di calendario. 
+
+Chiamiamo **coorte** un'insieme di persone che hanno vissuto un certo evento origine in uno stesso anno di calendario.
+
+![Generazioni e contemporanei in un diagramma di Lexis](figures/generazione_contemporanei.png){#fig-gc}
+
+Metodi di analisi:
+
+- **analisi longitudinale o per generazione o coorte**: quando una generazione o coorte viene seguita nel tempo fino alla completa estinzione. Tale tipo di analisi può essere condotta in modo prospettivo, cioè dall'origine all'estinzione della generazione, oppure in modo retrospettivo, cioè ricostruendo la storia della generazione a ritroso a partire da un preciso istante intervistando i sopravvissuti.
+
+- **analisi trasversale o per contemporanei**: quando l'osservazione viene ristretta ad un intervallo di tempo, per esempio un anno, ed estesa a tutte le classi di età.
+
+**Intensità**: misura la frequenza degli eventi caratterizzanti un fenomeno demografico nel ciclo di vita di una generazione come numero medio di eventi per componente;
+
+**Cadenza**: si intende la distribuzione del fenomeno secondo l'età durante il ciclo di vita. Essa può essere valutata secondo vari indici, ad esempio mediante l'età media alla quale avviene l'evento.
+
+**Popolazione chiusa**: quella composta esclusivamente dagli individui che ne facevano parte alla nascita i quali ne escono solamente per morte. In tal caso il rinnovo della popolazione è determinato solamente dalle nuove generazioni di nati. In ogni altro caso la popolazione è detta aperta.
+
+**Eventi rinnovabili o ripetibili**, sono quelli che, come la nascita di un figlio, possono avvenire più volte nel corso di una vita. La propria nascita e la morte sono eventi non rinnovabili. Vi sono eventi che in sé sono ripetibili, ma divengono non rinnovabili in casi specifici: il matrimonio è rinnovabile, ma il primo matrimonio non lo è, infatti esso determina l'uscita dell'individuo dallo stato di celibe/nubile. Inoltre gli eventi non rinnovabili possono essere studiati mediante una tavola di eliminazione.
+
+**Tasso**: indica la frequenza media di eventi, cioè indica quanti eventi o frazioni di evento avvengono durante un intervallo di tempo per ogni individuo mediamente presente nella popolazione (p.es. la semi-somma fra popolazione iniziale e quella finale).
+
+**Probabilità**: misura il “rischio” nell'unità di tempo di uscire da uno stato determinato ed è misurata dal rapporto tra il numero di eventi non ripetibili in un periodo e gli esposti al rischio nello stesso periodo, cioè la popolazione iniziale.
