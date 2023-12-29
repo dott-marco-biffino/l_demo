@@ -1,0 +1,101 @@
+---
+title: "Fonti e qualità dei dati"
+---
+
+**Fonte**: strumento istituzionale o organizzativo mediante il quale vengono raccolti i dati di interesse demografico.
+
+**Natura dei dati**: tutto quello che riguarda l'unità oggetto di rilevazione, l'insieme dei caratteri rilevati, l'elaborazione dei dati e la loro presentazione.
+
+**Attendibilità ed errori**: fattori che concorrono a determinare la rispondenza del dato statistico alla realtà che esso dovrebbe descrivere.
+
+### 2.1 Fonti dei dati di stato
+
+**Censimento della popolazione**: operazione di conteggio della popolazione presente in un dato territorio avente le seguenti caratteristiche
+
+- individuale, cioè ogni individuo deve essere rilevato separatamente;
+
+- universale, nel territorio sottoposto a censimento nessun individuo o categoria di individui deve essere tralasciato;
+
+- simultaneo, nel senso che l'enumerazione di cui sopra deve essere riferita ad un preciso istante (giorno ed ora prefissate) anche se di solito le operazioni di rilevazione si prolungano per più giorni;
+
+- a periodicità definita, di solito decennale, poiché le informazioni ottenute mediante un censimento si valorizzano e si irrobustiscono mediante il confronto con le informazioni analoghe acquisite dai censimenti precedenti.
+
+I censimenti moderni rispettano i suddetti requisiti con una certa approssimazione:
+
+- l'enumerazione è individuale, ma le informazioni sono spesso desunte dalle dichiarazioni di un altro famigliare, p.es. il capofamiglia, o da quelle di un responsabile;
+
+- essa è concettualmente universale, ma non sono pochi le persone che sfuggono alla rilevazione;
+
+- la simultaneità è rispettata solo formalmente, poiché le operazioni di censimento sono lunghe e complesse e richiedono diversi giorni per essere espletate.
+
+L'organizzazione di un censimento richiede un'accurata conoscenza del territorio che deve essere preliminarmente suddiviso in porzioni più piccole, dette sezioni di censimento, ognuna delle quali è affidata ad un incaricato detto ufficiale di censimento, la cui funzione è quella di visitare tutte le abitazioni della sua sezione, consegnare ad ogni famiglia o convivenza il questionario per la rilevazione. Egli deve poi ritirare i questionari consegnati ed, eventualmente, assistere i rispondenti nella compilazione, provvedere all'integrazione delle informazioni mancanti e alla compilazione diretta delle risposte ai quesiti di sua competenza.
+
+Le unità di rilevazione sono:
+
+- la famiglia, cioè un insieme di persone legate da vincoli di matrimonio, parentela, affinità, adozione, affiliazione, tutela o da vincoli affettivi, dimoranti abitualmente nella stessa unità abitativa. Il modello di rilevazione è il “foglio famiglia”;
+
+- la convivenza, una collettività di persone che senza essere legate da vicoli di matrimonio, parentela, ecc., conducono vita in comune per motivi religiosi, di assistenza, militari, di pena. il modello di rilevazione è il “foglio convivenza”.
+
+I caratteri rilevati hanno subito una certa evoluzione sia nella direzione di una maggior accuratezza (si è passati, ad esempio, dalla richiesta dell'età a quella della data di nascita), sia di una maggior tutela della privacy.
+
+In un censimento si possono verificare errori:
+
+- di omissione, che possono essere misurati ricorrendo a 
+
+  - indagini di controllo su un campione di sezioni di censimento oppure 
+  
+  - a fonti indipendenti quali anagrafe e registro della popolazione, cfr. pp. 18-19 per casi concreti;
+  
+- di doppio conteggio (raro)
+
+- vari tipi di errori legati alla mancata risposta o all'approssimazione delle risposte. 
+
+  - si è osservato che l'omissione censuaria tende ad essere più forte per i maschi che per le donne,
+  
+  - la struttura per età in censimenti storici e/o in condizioni di alto analfabetismo tende ad essere distorta. Si riscontra, infatti, un addensamento dell'età dichiarata verso i numeri terminanti per 0 o per 5. Tale fenomeno può essere misurato calcolando l'indice di irregolarità per ogni età terminante per  0 o per 5, p.es. $$IR_{30} = \frac{P_{30}}{1/5(P_{28}+P_{29}+P_{30}+P_{31}+P_{32})}$$
+  
+  - la rilevazione degli altri caratteri demografici (stato civile, luogo residenza...) presentano difficoltà di vario tipo. Nei censimenti moderni, tuttavia, la qualità di queste rilevazioni è soddisfacente.
+  
+### 2.2 Fonti dei dati di flusso
+
+In Europa la registrazione continua di nascite, decessi e matrimoni ha una lunga tradizione, che in alcuni casi risale all'alto medioevo.
+
+Per quanto riguarda l'Italia, ad esempio, la registrazione dei decessi si diffuse nel sec. XVI, venne codificata nel 1614 con il Rituale Romanum; più o meno contemporaneamente avvenne la diffusione di analoghe registrazioni nell'Europa riformata. L'annotazione dei battesimi e dei matrimoni, invece, divenne pratica usuale durante il XVII sec. nelle parrocchie italiane. Tali registrazioni erano caratterizzate da un grado di completezza variabile a seconda della diligenza dei parroci, della severità dei vescovi e, naturalmente, dell'estensione e delle condizioni del territorio.
+
+L'età napoleonica ha sottratto la responsabilità della registrazione dei nati e dei morti all'autorità religiosa per assegnarla a quella civile. La situazione pre-unitaria era assai diversificata e solo con l'unità d'Italia la rilevazione del movimento di stato civile (cioè degli atti di nascita, morte e matrimonio) viene definitivamente assegnata all'autorità civile nella persona dell'ufficiale di stato civile comunale sotto la tutela e il coordinamento dell'ente statistico ufficiale (prima DIRSTAT e poi, fino ad oggi, ISTAT).
+
+Attualmente in Italia, gli eventi sono registrati:
+
+- nei registri di stato civile del comune in cui sono accaduti dagli ufficiali di stato civile che ne danno notizia all'ISTAT mediante l'invio di un'apposita scheda individuale e all'ufficiale di anagrafe del comune in cui risiede l'individuo al quale è riferito l'evento,
+
+- nei registri di anagrafe mediante iscrizione dei nati e dei trasferiti da altro comune e cancellazione dei morti e dei trasferiti in altro comune.
+
+Sintetizzando la situazione: 
+
+- I Paesi europei sono dotati di sistemi molto avanzati ed efficienti, data la più lunga tradizione e l'esistenza di un organizzazione amministrativa capillare. Buoni livelli sono stati raggiunti già nel XIX sec.
+
+- Nord America, grandi isole del pacifico la vastità dei territori e la meno strutturata organizzazione religiosa ed amministrativa ha fatto in modo che la rilevazione dei dati di flussi fosse impostata all'inizio del XX sec. e che essa divenisse pratica corrente a partire dai decenni intermedi dello stesso sec.
+
+- Nel  resto del mondo la situazione è molto varia e, nella maggioranza dei casi, insoddisfacente.
+
+Natura ed errori delle statistiche di flusso
+
+I caratteri rilevati per ciascun evento possono essere desunti dalla lettura delle schede riportate in appendice al volume, naturalmente vengono rilevate età, sesso e stato civile dell'individuo interessato.
+
+Si possono verificare errori 
+
+- per incompleta registrazione alla nascita, che può essere rivelata da un eccessivo scostamento dalla proporzione di circa 105-6 maschi ogni 100 femmine;
+
+- per omissione della registrazione per decessi avvenuti immediatamente dopo la nascita;
+
+- nella distribuzione delle nascite rispetto all'età della madre può risultare distorta per effetto dell'arrotondamento già visto per la registrazione dell'età al censimento;
+
+- nella distribuzione delle nascite rispetto alla durata del matrimonio o secondo l'ordine di nascita, cfr. tab. 2.5;
+
+- il problema della distorsione per età esiste sempre sia per i decessi che per i matrimoni;
+
+Registro della popolazione, anagrafe e stato civile
+
+Registro della popolazione: elenco della popolazione di una certa unità territoriale che viene continuamente aggiornato cancellando o iscrivendo le persone che ne escono o vi entrano per morte, nascita, migrazione. Gli stati d'anime ne sono un esempio storico.
+
+Attualmente in Italia il registro della popolazione si concretizza nell'anagrafe comunale. Essa è un sistema di registrazione della popolazione avente residenza (cioè dimora abituale) in un comune italiano. In tali registri gli individui sono anche aggregati in famiglie e convivenze.

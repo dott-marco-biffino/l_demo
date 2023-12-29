@@ -1,0 +1,50 @@
+---
+title: "Popolazione e demografia"
+---
+
+**Oggetto della demografia**: l'analisi dei processi che determinano nel tempo la variazione della consistenza numerica delle popolazioni sia nei piccoli aggregati –- villaggio, comunità –- sia nei grandi aggregati –- nazione, continente, mondo.
+
+**Definizione di popolazione**: insieme di individui
+
+- stabilmente costituito (sono esclusi gli aggregati occasionali)
+
+- legati da vincoli di riproduzione (essi assicurano la stabilità e la continuità nel tempo della pop.)
+
+- identificabile mediante caratteristiche comuni (generalmente geografiche e/o politico-giuridiche, ma anche etniche, culturali e religiose).
+
+Ogni popolazione è sottoposta continuamente a processi di estinzione e di rinnovo la cui forza relativa determina il segno delle variazioni della sua consistenza numerica e la velocità di tale variazione.
+
+Possiamo sintetizzare l'affermazione nella seguente equazione:
+
+$$
+\Delta P = \left( N + I \right) - \left( M + E \right)
+$$
+
+Occorre constatare la disomogeneità degli individui all'interno di una data popolazione rispetto a fattori  biologici, sociali o giuridici. In particolare deve essere considerata la stratificazione degli individui rispetto ad età, sesso e stato civile.
+
+Limitando il discorso alla sola età, l'intuizione suggerisce che l'entità delle variazioni, la loro “qualità” e la distribuzione per età degli individui, dipendono fortemente dall'età alla quale ciascuna unità si aggiunge o si sottrae. 
+
+[cfr. illustrazioni p. 4 Manuale]
+
+Al fine di effettuare *comparazioni fra flussi di più popolazioni di dimensione diversa*, è necessario rendere confrontabili i flussi di estinzione e rinnovo relativi ad un dato periodo, rapportandoli alla consistenza della popolazione di riferimento $P$ (di solito il numero medio di individui presenti nel periodo). Si hanno, ad esempio:
+
+- tasso di natalità: $n = \frac{N}{P}$,
+- tasso di mortalità: $m = \frac{M}{P}$,
+- tasso di immigratorietà: $i = \frac{I}{P}$,
+- tasso di emigratorietà: $e = \frac{E}{P}$,
+- tasso di variazione: $r = \frac{\Delta P}{P} = \frac{N-M+I-E}{P}$
+
+In generale è possibile relativizzare qualsiasi quantità di interesse demografico.
+
+**Fenomeni demografici**: tutti quei fenomeni che determinano o concorrono  a determinare i flussi di rinnovo ed estinzione. Questi sono chiamati alternativamente *comportamenti*, privando, però, il termine della connotazione volontaristica che gli viene attribuita nel linguaggio comune.
+
+I fenomeni demografici non accadono né si distribuiscono casualmente in una popolazione, proprio perché sono il risultato delle scelte individuali, collettive e del contesto ambientale. La dinamica della popolazione è caratterizzata da:
+
+- **processi di coesione** sono quelli che determinano l'associazione degli individui in famiglie, comunità, villaggi, città. Tali processi determinano l'associazione di individui portatori di certe caratteristiche anziché di altre.
+Sono processi di **repulsione** quelli che hanno un effetto contrario.
+
+- **processi di selezione** sono quelli che fanno in modo che soggetti che abbiano già vissuto un certo evento abbiano una probabilità diversa di subirne un secondo rispetto a chi non ha subito il primo^[Alcuni esempi: la mortalità dei celibi è più alta rispetto a quella dei coniugati; ai primi del '900 è stata osservata una minore proporzione di riformati alla visita di leva degli immigrati negli USA rispetto ai giovani rimasti in Italia ed è stata spesso riscontrata una minore mortalità degli immigrati rispetto alle popolazioni autoctone].
+
+- **processi di interazione** sono quei comportamenti che indeboliscono o rafforzano altri comportamenti demografici^[Esempio: storicamente si è visto che popolazione caratterizzate da alta fecondità subivano anche un'alta mortalità infantile, non tanto perché i bambini fossero meno sani ma piuttosto per il fatto che era più alta la competizione tra loro per l'attribuzione delle risorse e delle cure della famiglia.].
+
+Tali processi devono essere tenuti nella giusta considerazione nell'interpretazione dei fenomeni demografici.

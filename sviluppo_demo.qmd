@@ -1,0 +1,71 @@
+---
+title: "Misure dell'accrescimento demografico"
+---
+
+Quanto  e quanto velocemente aumenta la numerosità di una certa popolazione?
+
+Il tasso di incremento  risponde a questa esigenza conoscitiva. Precisamente esso indica di quante unità  o frazioni di unità si accresce una popolazione per ogni unità che la compone nell'intervallo di tempo considerato. 
+
+In genere si considera un intervallo annuale e il tasso viene moltiplicato per mille o altra potenza di 10.
+
+Ai fini del calcolo di tale quantità occorrono i seguenti elementi:
+
+- la numerosità della popolazione tra due date successive: $_{0}P$ e $_{t}P$;
+
+- l'incremento totale: $\Delta P = {_{t}P} - {_{0}P}$;
+
+- il tempo durante il quale il suddetto incremento si manifesta, con le convenzioni adottate semplicemente $t$.
+
+### 3.1 Criteri per la determinazione del tasso di incremento
+
+Per ognuno dei tre criteri che seguono scriviamo l'equazione di sviluppo della  popolazione, cioè la legge dipendente dal tempo e dal tasso di incremento che consente di calcolare l'ammontare della popolazione ad una data  futura a partire dalla consistenza di quella corrente. 
+
+Risolviamo, quindi, ognuna delle tre equazioni di sviluppo rispetto al tasso di incremento, ottenendo l'espressione del tasso di incremento in funzione del tempo intercorso fra due date, della consistenza iniziale e di quella finale della popolazione.
+
+Poiché la numerosità della popolazione varia continuamente nel tempo,  i criteri si differenziano a seconda della consistenza della popolazione che si assume come riferimento.
+
+Con il **tasso di incremento aritmetico** $^{a}r$ la popolazione di riferimento è quella all'inizio del periodo, ovvero $_{0}P$.
+
+Per ricavare l'espressione di $^{a}r$, partiamo dalla *equazione lineare di sviluppo della popolazione* 
+$$_{t}P = {_{0}P}(1+{^{a}r}\,t)$$ 
+si svolge la motiplicazione a secondo membro  
+$$_{t}P = {_{0}P} +{_{0}P}\,{^{a}r}\,t$$ 
+si sottrae da ambo i membri ${_{0}P}$
+$$_{t}P - {_{0}P}=  {_{0}P}\,{^{a}r}\,t$$
+si dividono, infine, ambo i membri per ${_{0}P}\,t$ ottenendo
+$${^{a}r} = \frac{_{t}P - {_{0}P}}{{_{0}P}\,t}$$
+Se si assume come riferimento la popolazione esistente all'inizio di ciascun periodo annuale componente l'intervallo considerato, si ha il **tasso di incremento geometrico** o composto $^gr$ che si ricava come segue partendo dall'equazione geometrica di sviluppo della popolazione 
+
+$$_tP \,= \,_0P (1 + \,^gr)^t$$
+
+Si dividono ambo i membri per $_0P$
+
+$$\frac{_tP}{_0P} = (1 + \,^gr)^t$$
+Passando ai logaritmi decimali^[Per i logaritmi utilizziamo una convenzione identica a quella delle calcolatrici scientifiche: i logaritmi decimali sono indicati con $log$, mentre i logaritmi naturali sono indicati con $ln$ (nel manuale di Livi Bacci sono rispettivamente indicati con con $Log$ e $log$).] otteniamo 
+
+$$ \log \frac{_tP}{_0P} = t \cdot \log (1 + \,^gr)$$
+Dividendo ora ambo i membri per $t$ 
+
+$$ \frac{1}{t} \cdot \log \frac{_tP}{_0P} = \log (1 + \,^gr)$$
+Passando agli antilogaritmi^[Ricordiamo che, dato un numero $x$, il suo antilogaritmo decimale è $10^x$ e quello naturale è $e^x$. Naturalmente $10^{\log x} = x$ e $e^{\ln x} = x$.] e sottraendo $1$ ad ambo i membri, infine otteniamo
+
+$$ ^gr = 10^{\frac{1}{t} \cdot \log \frac{_tP}{_0P}} -1$$
+
+Infine è possibile assumere come riferimento la popolazione esistente all'inizio di ciascun intervallo infinitesimo. Si ottiene, così, il **tasso di incremento esponenziale ** o composto continuamente $t$. Esso è ricavato dall'equazione di sviluppo esponenziale 
+
+$$_tP = \,_0P \cdot e^{r \cdot t}$$
+
+Dividendo per $_0P$ e passando ai logaritmi naturali otteniamo 
+
+$$\ln \frac{_tP}{_0P} = r \cdot t$$
+Dividendo, quindi, per $t$ ricaviamo il tasso esponenziale $$ r = \frac{1}{t}\ln \frac{_tP}{_0P}$$
+
+Si noti che il tasso di incremento esponenziale presuppone che ogni unità aggiunta  contribuisca alla successiva variazione della popolazione, mentre il tasso geometrico presuppone che ogni unità aggiunta (o sottratta) concorra alla variazione solo a partire dall'anno successivo.
+
+### 3.2 Esempi su equazioni di sviluppo della popolazione e tassi di incremento
+
+#### Esempio 1
+
+
+
+### 3.3 Codice R su equazioni di sviluppo della popolazione e tassi di incremento
