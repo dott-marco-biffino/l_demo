@@ -1,0 +1,30 @@
+project:
+  type: book
+
+book:
+  title: "Lezioni di demografia"
+  author: "Marco Biffino"
+  date: "01/01/2024"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - licence.qmd
+    - pop_demo.qmd
+    - fonti_qualita.qmd
+    - sviluppo_demo.qmd
+    - concetti_strumenti.qmd
+    - analisi_fenomeni_demo.qmd
+    - tavole_mortalita.qmd
+    - mortalita_approfondimenti.qmd
+    - form_scioglim_coppie.qmd
+    - fecondita.qmd
+    - fecondita_controllata.qmd
+    - mobilita_migrazioni.qmd
+    - modelli_popolazione.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
