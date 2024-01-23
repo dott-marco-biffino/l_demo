@@ -8,19 +8,19 @@ book:
   page-navigation: true
   chapters:
     - index.qmd
-    - pop_demo.qmd
-    - fonti_qualita.qmd
-    - sviluppo_demo.qmd
-    - concetti_strumenti.qmd
-    - analisi_fenomeni_demo.qmd
-    - tavole_mortalita.qmd
-    - mortalita_approfondimenti.qmd
-    - form_scioglim_coppie.qmd
-    - fecondita.qmd
-    - fecondita_controllata.qmd
-    - mobilita_migrazioni.qmd
-    - modelli_popolazione.qmd
-    - rif_bibliografici.qmd
+    - 01_pop_demo.qmd
+    - 02_fonti_qualita.qmd
+    - 03_sviluppo_demo.qmd
+    - 04_concetti_strumenti.qmd
+    - 05_analisi_fenomeni_demo.qmd
+    - 06_tavole_mortalita.qmd
+    - 07_mortalita_approfondimenti.qmd
+    - 08_form_scioglim_coppie.qmd
+    - 09_fecondita.qmd
+    - 10_fecondita_controllata.qmd
+    - 11_mobilita_migrazioni.qmd
+    - 12_modelli_popolazione.qmd
+    - 99_rif_bibliografici.qmd
 
 bibliography: bibliografia.bib
 
