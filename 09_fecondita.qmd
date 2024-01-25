@@ -1,5 +1,89 @@
 --- 
- title:  fecondita 
+ title:  La Fecondita 
 ---
 
- Materiale in preparazione 
+Con il termine italiano **fecondità** si intende la manifestazione concreta e statisticamente misurabile della **fertilità**, cioè della capacità o attitudine a procreare, la quale è destinata a restare latente in una frazione di individui. 
+
+Livi Bacci (-@LiviBacci1999, p. 211, nota 1) segnala che nella letteratura in lingua inglese il significato dei termini *fecundity* e *fertility* è invertito rispetto alla lingua italiana. Da riscontri su vocabolari italiani e inglesi monolingue attualmente disponibili, tuttavia, ciò non risulta.
+
+È necessario rilevare la differenza concettuale fra lo studio della mortalità e quello della fecondità.
+
+Nel primo caso l'analisi demografica si limita a studiare la dinamica temporale, cioè la cadenza, di un evento certo che colpisce ogni individuo una sola volta, l'eliminazione per morte.
+
+Nel caso della fecondità, invece, avviene che non tutti i componenti di una generazione abbiano figli e alcuni ne hanno più di uno nell'arco della vita. È opportuno segnalare anche che le modificazioni biologiche connesse con l'invecchiamento limitano la capacità di procreare in ben determinato intervallo temporale nella vita di una donna^[L'analisi della fecondità viene qui condotta facendo esclusivo riferimento alla popolazione femminile, cioè a quella  parte di popolazione che sopporta il peso biologico delle gravidanze. Questo non significa che la fecondità di una donna non dipenda dalle caratteristiche del suo compagno: semplicemente i dati statistici correntemente prodotti non consentono l'analisi di questo tipo di relazioni di dipendenza, ma questo studio potrebbe essere condotto sulla base di indagini ad hoc.].
+
+Fra i fattori che riducono le potenzialità della fertilità umana si segnalano:
+
+1. La durata e l'utilizzo a fini riproduttivi dell'arco della vita fertile, per la donna, compresa tra la pubertà o menarca e la menopausa, anche se la piena capacità riproduttiva si acquisisce qualche tempo dopo il menarca e termina diversi anni prima della menopausa^[A seconda delle condizioni generali di salute e di nutrizione l'età media al menarca varia tra i 12 e i 17 anni, quella alla menopausa è compresa tra i 44 e 50 anni.];
+
+2. L'effetto riduttivo della mortalità: solo una parte della vita fertile viene trascorsa in unione riproduttiva e tale quota è ulteriormente ridotta dalla mortalità il cui effetto distruttivo è tanto più alto quanto più bassa è la speranza di vita;
+
+3. La lunghezza dell'intervallo fra i parti determina il numero dei parti che possono concretamente prodursi nell'intervallo utile della vita fertile. L'intervallo fra i parti è determinato da fattori biologici e comportamentali quali allattamento, frequenza di rapporti sessuali, mortalità intrauterina.
+
+## Fecondità generica e secondo lo stato civile
+
+Esaminiamo alcune misure generiche e standardizzate correntemente impiegate a fini descrittivi e comparativi. 
+
+Si indichino: 
+
+- con $N$ il numero delle nascite totali ovvero il numero dei nati, con $Nl$ quello delle nascite da donne coniugate (nati legittimi) e con $Ni$ quelle da donne non coniugate (impropriamente, nati illegittimi) con il vincolo $N = Nl + Ni$;
+
+- con $D$ il numero totale delle donne, con $Dc $quello delle donne coniugate e con $Dnc$ quello delle donne non coniugate (nubili, vedove, divorziate...) in età feconda (convenzionalmente tra i 15 e 49 anni).
+
+Si calcolano i seguenti tassi generici:
+
+- tasso di fecondità generale: $fg = \frac{N}{D}$;
+
+- tasso di fecondità coniugale o legittima:  $fl = \frac{Nl}{Dc}$;
+
+- tasso di fecondità non coniugale o illegittima: $fi = \frac{Ni}{Dnc}$.
+
+Il tasso di fecondità generale non è altro che la media dei tassi di fecondità coniugale e non coniugale ponderata con le proporzioni di donne coniugate e non coniugate: $$fg = \frac{Nl+Ni}{D} = \frac{Nl}{Dc}\cdot\frac{Dc}{D}+\frac{Ni}{Dnc}\cdot\frac{Dnc}{D} = fl\cdot\frac{Dc}{D}+fi\cdot\frac{Dnc}{D}$$
+
+Quando il tasso di fecondità illegittima è inferiore al 5%, il tasso di fecondità generale può essere approssimato, cioè $fg \simeq fl\cdot \frac{Dc}{D}$.
+
+## Indici di Coale??
+Nota la distribuzione per età delle donne coniugate e di quelle non coniugate, è possibile calcolare inoltre gli indici – detti  di Princeton o di Coale – che esprimono i valori della fecondità in funzione di un massimo teorico in modo da neutralizzare l'effetto della composizione per età.
+
+La standardizzazione indiretta dei tassi viene realizzata mediante i tassi specifici di fecondità massimi empiricamente osservati in una popolazione reale, quella delle donne appartenenti al gruppo religioso riformato hutterita che hanno contratto matrimonio fra il 1920 e 1930.
+
+Indichiamo con  i tassi specifici di fecondità coniugale delle donne hutterite. Possiamo calcolare le seguenti quantità:
+
+- il numero totale delle nascite della popolazione di donne qualora queste sperimentassero la fecondità delle donne hutterite: ; 
+
+- il numero delle nascite coniugali dalla popolazione delle donne coniugate qualora queste sperimentassero la fecondità delle donne hutterite: ;
+
+- il numero delle nascite non coniugali dalla popolazione delle donne non coniugate qualora queste sperimentassero la fecondità delle donne hutterite: .
+
+Si possono calcolare i seguenti rapporti del tipo nati effettivi su nati teorici:
+
+- Indice di fecondità generale: ;
+
+- Indice di fecondità coniugale: ;
+
+- Indice di fecondità non coniugale: ;
+
+- Indice della proporzione delle coniugate: . 
+
+Questo da maggior peso alle coniugate nelle classi di età in cui la fecondità coniugale è più alta.
+
+I quattro indici sono collegati dalla relazione: . 
+
+Anche in questo caso, quando l'indice   di fecondità non coniugale è minore del 5%, vale l'approssimazione . Cfr. tab. 9.1 per esemplificazione numerica per le donne italiane nel 1911.
+
+## Concetti e misure elementari della fecondità generale
+
+Ribadiamo che studiamo la fecondità in relazione alla sola popolazione femminile per semplicità, ma nonostante la semplificazione, i problemi da affrontare sono ancora complessi: una buona descrizione della fecondità deve tenere conto dell'età della madre, se è sposata oppure no, dell'ordine di nascita dei figli nati vivi. Per le donne sposate, inoltre, bisognerebbe tenere conto anche della durata e dell'età al matrimonio. 
+
+Non sempre sono disponibili tutte queste informazioni. 
+
+Altre complicazioni sorgono dal metodo di osservazione longitudinale o trasversale e dalla provenienza del materiale di base, cioè se esso è prodotto dalle correnti statistiche di stato civile o da indagini retrospettive censuarie o campionarie.
+
+Volendo analizzare la fecondità di una generazione di donne, dobbiamo rispondere alle domande: 
+
+- qual è il numero totale dei figli (discendenza) messo al mondo dalla generazione indipendentemente dal livello di mortalità? Dobbiamo, cioè, calcolare l'intensità finale del fenomeno;
+- come si costruisce nell'arco della vita feconda, la discendenza delle generazioni? Dobbiamo calcolare la distribuzione per età della discendenza finale;
+- come si ripartisce la discendenza, parziale o finale, secondo l'ordine di nascita?
+Calcolo dei tassi specifici  di fecondità
+Le statistiche occorrenti  per il numeratore sono il numero delle nascite secondo l'età, l'anno di nascita della madre e secondo l'ordine di nascita. Generalmente si considerano i soli nati vivi, ma la determinazione dell'ordine di nascita pone diversi problemi (Cfr. nota 2 alle pp. 216-217). 
+Per il denominatore, invece, serve la distribuzione della popolazione femminile secondo l'età e l'anno di nascita normalmente nota con il dettaglio richiesto in corrispondenza dei censimenti, mentre nei periodi intercensuari è necessario calcolarla con procedimenti teoricamente semplici ma tecnicamente complessi.
