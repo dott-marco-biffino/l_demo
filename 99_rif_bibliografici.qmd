@@ -1,5 +1,5 @@
---- 
- title:  rif_bibliografici 
----
+# Riferimenti bibliografici {.unnumbered}
 
- Materiale in preparazione 
+::: {#refs}
+
+:::
