@@ -1,5 +1,199 @@
 --- 
- title:  form_scioglim_coppie 
+ title:  Formazione e scioglimento delle coppie 
 ---
 
- Materiale in preparazione 
+La nuzialità non influenza direttamente la dinamica e la struttura della popolazione e, nei trattati di metodologia demografica, ad essa è stato riservato un ruolo minore e subordinato legato più alle implicazioni di ordine sociologico che a quelle più propriamente demografiche. 
+
+Sebbene il matrimonio legale o religioso non rappresenta un requisito necessario al fine di mettere al mondo bambini e sia sempre più frequente soprattutto nelle popolazioni a sviluppo avanzato che singoli o coppie decidano volontariamente di non avere figli, negli ultimi anni la nuzialità ha riconquistato un ruolo importante grazie alle seguenti considerazioni:
+
+1. Nella maggioranza delle popolazioni la quasi totalità del processo riproduttivo avviene durante il matrimonio o nell'ambito di un'unione stabile ^[Esiste una stretta relazione fra nuzialità e natalità:  generalmente ad una maggior frequenza di matrimoni è associata una maggior natalità];
+
+2. Lo studio della nuzialità è essenziale per la comprensione dei processi di formazione e scioglimento della famiglia, area di interesse per sociologi e demografi, poiché normalmente la celebrazione del matrimonio e il suo eventuale scioglimento costituiscono l'atto iniziale e quello finale della vita di un nucleo famigliare;
+
+3. Il matrimonio è un fenomeno selettivo: l'incontro e la scelta dei coniugi avviene sulla base di scelte e preferenze spesso inconsce ma mai casuali; spesso chi non si sposa rimane escluso dal processo riproduttivo. Diviene una questione di primario interesse sapere quanti restano esclusi dal matrimonio e quali sono le loro caratteristiche ^[Il patrimonio genetico di una popolazione è influenzato non solo dalle mutazioni che si accumulano nel tempo e dalla mortalità differenziale, ma anche dalla fecondità differenziale e dall'esclusione dal processo riproduttivo di individui portatori di specifiche caratteristiche.].
+
+I quesiti fondamentali cui l'analisi demografica del matrimonio vuole rispondere sono:
+
+- **Intensità della nuzialità**: qual è la proporzione di uomini e donne che contraggono matrimonio almeno una volta nella vita e qual è quella di coloro che restano esclusi dal matrimonio?
+
+- **Cadenza della nuzialità**: qual è la distribuzione per età degli sposi? La distribuzione per età rivela una propensione al matrimonio precoce o tardiva?
+
+- **Modalità di estinzione del matrimonio** per morte o divorzioh,  **Durata della convivenza** e intensità e cadenza dei matrimoni successivi al primo.
+
+## Analisi dei processi di formazione e scioglimento delle coppie basate su dati di stato
+
+Per matrimonio intendiamo qualsiasi rapporto di unione libera e stabile fra un uomo e una donna anche se non sanzionata da un atto formale (escludendo per semplicità le unioni poligamiche). 
+
+Limitiamo, inoltre, l'analisi alle tre situazioni di celibato/nubilato, di coniugato/a e di vedovo/a^[La situazione è un po' più complicata dal punto di vista legale/formale: in Italia, ad esempio, le statistiche per stato civile prevedono i seguenti celibe/nubile, coniugato/a, divorziato/a, Vedovo/a, unito/a civilmente, già in unione civile (per scioglimento), già in unione civile (per decesso del partner).]. 
+
+La popolazione si ripartisce nei tre stati in base alla dinamica dei processi che determinano le entrate (matrimonio o inizio di unione) o le uscite (vedovanza, separazione, divorzio) da unioni stabili.
+
+Per semplificare studiamo la nuzialità nella sola popolazione femminile. 
+
+L'analisi dei dati di stato, p. es. risultanti da un censimento, ci consente di misurare ed apprezzare la composizione per stato civile della popolazione. Nel caso della popolazione femminile italiana censita nel 1991, la tabella 8.1 a p. 180 rappresenta un utile schema di riferimento che ci consente di conoscere e calcolare:
+
+- La proporzione di donne in ognuno dei tre stati per classe di età:
+
+  - proporzione di donne nubili ${dn}_x = \frac{{DN}_x}{P_x}$;
+  
+  - proporzione di donne coniugate ${dc}_x = \frac{{DC}_x}{P_x}$;
+  
+  - proporzione di donne vedove ${dv}_x = \frac{{DV}_x}{P_x}$.
+  
+- La proporzione di donne in ognuno dei tre stati ottenuta mediante la sommatoria sulle classi di età $x$ dei conteggi per classe di età ${D\star}_x$ divisa per la popolazione $P = \sum_x P_x$:
+
+  - proporzione di donne nubili $dn = \frac{\sum_x {DN}_x}{\sum_x P_x}$;
+  
+  - proporzione di donne coniugate $dc = \frac{\sum_x {DC}_x}{\sum_x P_x}$;
+  
+  - proporzione di donne vedove $dv = \frac{\sum_x {DV}_x}{\sum_x P_x}$.
+  
+- Le proporzioni standardizzate di donne nei tre stati calcolata mediante la sommatoria sull'età $x$ delle proporzioni specifiche ${d\star}_x$ ^[Ovvero rispetto ad una popolazione ipotetica avente struttura per età rettangolare in cui tutte le donne vivono fino ad una certa età $\omega$ ed in ogni classe di età è presente un contingente di 1.000 donne o altra potenza di 10.]:
+
+  - Proporzione standardizzata di nubili $\sum_{x=0}^\omega {dn}_x$;
+  
+  - Proporzione standardizzata di coniugate $\sum_{x=0}^\omega {dc}_x$;
+  
+  - Proporzione standardizzata di vedove $\sum_{x=0}^\omega {dv}_x$.
+  
+- Le proporzioni di anni vissuti in ogni stato civile ricavate come medie delle proporzioni specifiche per età ponderate con gli anni vissuti tratti da una tavola di mortalità.
+
+  - Proporzione di anni vissuti in nubilato
+  
+  - Proporzione di anni vissuti da coniugata
+  
+  - Proporzione di anni vissuti da vedova
+  
+La distribuzione per stato civile ha particolare rilievo per le donne in età feconda, cioè di età compresa fra i 15 e i 50 anni. cfr tabellina a p. 183 in alto.
+
+La distribuzione secondo l'età nei tre stati può essere rappresentata graficamente come nelle fig. 8.1 ed 8.2 e grazie ad essa può essere facilmente interpretata. 
+
+### Stima dell'itensità e della cadenza della nuzialità basata esclusivamente su dati di stato
+
+Se non sono disponibili dati di flusso (registrazioni di stato civile) affidabili, ma si hanno a disposizione buone statistiche di stato (ovvero registri anagrafici) si può calcolare la distribuzione della popolazione per sesso, età e stato civile. 
+
+A partire dalla distribuzione sesso, età e stato civile si possono ottenere misure soddisfacenti di intensità e cadenza della nuzialità.
+
+Per l'intensità (cfr. fig. 8.3) si considerano le proporzioni di coniugati per singole età o classi di età, cioè le ordinate del grafico.
+Per la cadenza (cfr. fig. 8.3 con miei commenti e tabella 8.5)
+
+## Analisi dei processi di formazione e scioglimento delle coppie basate su dati di flusso
+
+Vogliamo ora misurare i processi di entrata in unione o matrimonio e di uscita per vedovanza o divorzio, utilizzando dati di flusso.
+
+Nuzialità: indichiamo
+
+- con $S$ il totale dei matrimoni di qualsiasi ordine (oppure il numero degli sposi o delle spose), 
+
+- con $SN$  il numero dei primi matrimoni oppure il numero degli sposi celibi/nubili,
+
+- con $SV$ il numero degli sposi vedovi,
+
+- con $SD$ il numero degli sposi divorziati,
+
+- con $PN$ la popolazione celibe o nubile, con $PV$ e $PD$ la popolazione dei vedovi o dei divorziati.
+
+Considerando separatamente uomini e donne, si definiscono i seguenti tassi:
+
+- il tasso generico di nuzialità $s = \frac{S}{P}$ avente il significato di numero medio di matrimoni per individuo presente nella popolazione^[Il tasso generico di nuzialità ha scarsa utilità pratica.];
+
+- i tassi specifici di nuzialità $s_x = \frac{S_x}{P_x}$ ed i tassi specifici di nuzialità dei primi matrimoni ${sn}_x = \frac{{SN}_x}{P_x}$ aventi il significato di numero medio di matrimoni per individuo mediamente presente nella popolazione di età $x$;
+
+- il tasso di nuzialità totale $TNT = \sum_x s_x$;
+
+- il tasso di nuzialità totale dei primi matrimoni $^{PM}TNT = \sum_x {sn}_x$;
+
+- il tasso di celibato/nubilato definitivo $1 - ^{PM}TNT$, misura che descrive l'intensità del processo di esclusione dal matrimonio.
+
+Si calcola inoltre l'età media al primo matrimonio come media dell'età ponderata con i tassi specifici dei primi matrimoni, cioè $$^{PM}\bar{x} = \frac{\sum_x x \cdot {sn}_x}{\sum_x {sn}_x}$$
+
+I dati statistici necessari per i calcoli sono la popolazione per sesso ed età (non è necessaria la classificazione per stato civile ) e la distribuzione dei matrimoni secondo l'età degli sposi. Questi dati sono normalmente prodotti nei paesi sviluppati anche se risentono dell'effetto della mortalità, che deve essere considerata un fenomeno perturbatore della nuzialità, cfr. p. 190 per una correzione dell'effetto della mortalità basata sull'uso di tavole di mortalità differenziate per stato civile.
+
+Il matrimonio può essere contratto più volte nel corso di una vita, ma il primo matrimonio è un evento non rinnovabile rappresentando il passaggio dallo stato di nubile o celibe a quello di coniugato.
+
+## Intensità e cadenza della nuzialità quando sono disponibili solo dati di stato
+
+Spesso non sono disponibili dati di flusso affidabili, ma si hanno a disposizione buone statistiche di stato: precisamente si ha la distribuzione della popolazione per sesso età e stato civile. A partire da questa si possono ottenere misure soddisfacenti di intensità e cadenza.
+
+Per l'intensità (cfr. fig. 8.3) si considerano le proporzioni di coniugati per singole età o classi di età, cioè le ordinate del grafico.
+
+Per la cadenza (cfr. fig. 8.3 con miei commenti e tabella 8.5)
+
+## Analisi per contemporanei della nuzialità
+
+I tassi definiti prima erano riferiti ad una generazione. Tali tassi possono anche essere calcolati per contemporanei riferendosi ad un determinato anno, ma in tal caso sorge il problema dell'interpretazione dei risultati:
+
+il tasso di nuzialità totale $TNT$ per contemporanei esprime il numero totale dei matrimoni contratti da una generazione fittizia di 1.000 donne (o altra potenza di 10) non toccata dalla mortalità e che sperimentasse alle varie età la nuzialità propria delle donne contemporanee viventi nell'anno di osservazione (naturalmente appartenenti a diverse generazioni).
+
+Il $TNT$ può essere interpretato come:
+
+- misura sintetica e standardizzata della nuzialità avente significato congiunturale e utilità nei confronti fra popolazioni;
+
+- risultato della proiezione della nuzialità di una generazione fittizia che entrata in età matrimoniale nell'anno di osservazione sperimentasse nell'arco della sua esistenza i tassi di nuzialità dell'anno considerato. 
+
+Occorre naturalmente rilevare che l'aggregazione per contemporanei può portare a risultati illogici come un $^{PM}TNT$ superiore al 100%. cfr. figure 8.4 e 8.5.
+
+## Lo scioglimento del matrimonio per morte di uno dei coniugi
+
+Nelle popolazioni a bassa mortalità e fecondità avviene che la maggior parte dei matrimoni si scioglie per morte dopo la conclusione della vita feconda, perciò una maggiore o minore velocità di scioglimento delle coppie non ha rilevanti conseguenze sull'accrescimento demografico. 
+
+In quelle ad alta fecondità e mortalità, invece, avviene esattamente il contrario.
+
+Il numero di scioglimenti del matrimonio per morte in un dato anno corrisponde approssimativamente al numero totale di deceduti maschi e femmine coniugati.
+
+Una misura della durata dei matrimoni potrebbe dedursi dagli atti di morte qualora, come avviene in Italia,  essi rilevassero la data di matrimonio dei deceduti che potrebbe essere combinata con l'età al matrimonio. Questi dati non sono normalmente disponibili perciò è necessario ricorrere a metodi indiretti basati sulle tavole di mortalità.
+
+Data una coorte di matrimoni nei quali l'età dello sposo sia $x$ e quella della sposa sia $y$ , si considerano le probabilità di sopravvivenza per almeno $n$ anni di ciascun coniuge, cioè $_n P_x$ e $_n P_y$ ricavate da una tavola di mortalità, si calcola il loro prodotto ottenendo la probabilità di sopravvivenza della coppia dopo $n$ anni. cfr. tabella 8.6.
+
+## Lo scioglimento del matrimonio per divorzio
+
+Lo studio dello scioglimento del matrimonio a causa del divorzio, nelle sue varie forme giuridiche ha oggi una grande importanza sia per la frequenza crescente sia per le complesse conseguenze sociali che esso implica. In questo studio gli inconvenienti più gravi consistono nelle diversità delle legislazioni e nel fatto che il divorzio è l'atto finale di una rottura del matrimonio avvenuta molto tempo prima.
+
+Conoscendo il numero assoluto dei divorzi $D$ e l'ammontare della popolazione totale $P$ e di quella coniugata $^CP$, si possono calcolare i seguenti **tassi generici di divorzialità**:
+
+$$d = \frac{D}{P}$$
+
+$$d' = \frac{D}{\frac{1}{2}\cdot^CP}$$
+
+il secondo dei quali rapporta i divorzi al numero presuntivo delle coppie coniugali, pari alla metà dei coniugati. I tassi generici non ci consentono di misurare la frequenza della divorzialità né la sua incidenza nel processo di eliminazione di matrimoni. 
+
+Il divorzio, più di altri fenomeni demografici, dipende dall'età raggiunta dai coniugi e dalla sua durata. Le statistiche dei divorzi secondo la durata del matrimonio ci consentono di studiare l'uscita dallo stato matrimoniale di una coorte di matrimoni con l'accuratezza desiderata. Indicati con $S^j$ il numero dei matrimoni conclusi nell'anno $j$ e con $D^j_d$ quello dei divorzi originati dai matrimoni della coorte $j$ che hanno raggiunto la durata $d$, si possono calcolare i **tassi specifici di divorzialità per durata**: $$d_d^j = \frac{D_d^j}{S^j}$$
+
+Questi tassi risultano lievemente distorti per difetto^[Si confronti la tavola di eliminazione dei matrimoni per morte di uno dei coniugi riportata nella tab. 8.6. Da questa si evince che, 15 anni dopo la celebrazione, il 97% dei matrimoni sopravvive all'estinzione per morte dell'uomo e il 99% a quella per morte della donna.]. Il denominatore corretto, infatti,  sarebbe il numero $S_d^j$ dei matrimoni della coorte $j$ sopravvissuti all'estinzione per morte alla durata $d$. Poiché risulta $S_d^j <= S^j$, allora è $d_d^j = \frac{D_d^j}{S^j} <= \frac{D_d^j}{S_d^j}$.
+
+Sommando i tassi specifici di divorzialità $d_d^j$ si calcola il **tasso di divorzialità totale** della coorte di matrimoni $j$: $$TDT^j = \sum_{d=0}^\omega $d_d^j$$ 
+
+Sia i tassi specifici, sia il tasso totale di divorzialità possono essere calcolati per coorte o per contemporanei. In quest'ultimo caso il tasso totale misura l'intensità della divorzialità in una coorte fittizia sottoposta artificialmente all'esperienza vissuta in uno specifico anno da più generazioni reali.
+
+Per la cadenza della divorzialità è sufficiente calcolare la durata media dei matrimoni (il calcolo è simile a quello delle varie età medie che abbiamo già incontrato).
+
+Per un commento sull'andamento storico del fenomeno va rilevato che nelle popolazioni storiche esso è o del tutto assente o praticamente irrilevante; per quanto riguarda il periodo contemporaneo si nota un aumento generalizzato dei tassi specifici di divorzialità ed un aumento particolarmente marcato entro i dieci anni di durata, cfr. fig. 8.7 relativa alle coorti di matrimoni celebrati in Francia fra il 1946 e il 1990.
+
+# Attualità statistica su matrimoni e divorzi
+
+## La famiglia che cambia: il caso italiano
+
+https://www.neodemos.info/2014/03/12/vivere-soli-o-essere-soli/
+
+https://www.neodemos.info/2019/07/05/la-diffusione-di-nuovi-modelli-familiari-quali-conseguenze-per-le-disuguaglianze/
+
+https://www.neodemos.info/2021/02/26/la-diffusione-del-divorzio-e-i-cambiamenti-delle-seconde-nozze-in-italia/
+
+https://www.neodemos.info/2021/03/09/linstabilita-coniugale-prima-della-legge-sul-divorzio/
+
+https://www.neodemos.info/2021/03/26/nuovi-modi-di-sciogliere-il-vincolo-coniugale-alla-luce-dei-piu-recenti-cambiamenti-normativi/
+
+https://www.neodemos.info/2021/05/25/50-anni-dalla-legge-sul-divorzio-cause-e-conseguenze-dellinstabilita-coniugale-in-italia-2/
+
+## Matrimoni in Italia, Europa, Mondo
+
+https://www.neodemos.info/2010/09/29/matrimoni-un-fenomeno-in-via-di-mutamento-2/
+
+
+
+## Separazioni, divorzi, scioglimenti delle unioni civili
+
+https://www.neodemos.info/2022/01/21/non-ci-sono-piu-i-matrimoni-di-una-volta-frequenza-e-caratteristiche-delle-separazioni-in-italia/
+
+https://www.neodemos.info/2010/01/13/le-separazioni-degli-over-60-in-italia/
+
