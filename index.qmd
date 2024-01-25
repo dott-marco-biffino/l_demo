@@ -4,7 +4,7 @@
 
 In questo testo potete (potrete, in realtà) trovare una raccolta dei materiali didattici che utilizzo durante le mie lezioni private di demografia destinate a studenti universitari.
 
-Si tratta di materiali che hanno la loro origine nella seconda metà degli anni 2000 ampiamente ispirati e basati sul manuale Livi Bacci, *Introduzione alla demografia* di cui all'inizio erano dei riassunti. 
+Si tratta di materiali che hanno la loro origine nella seconda metà degli anni 2000 ampiamente ispirati e basati sul manuale @LiviBacci1999 Livi Bacci, *Introduzione alla demografia* di cui all'inizio erano dei riassunti. 
 
 Il materiale nel corso del tempo è stato integrato con manuali più aggiornati, con esempi svolti e codice in linguaggio R per risolvere i più comuni problemi di calcolo.
 
