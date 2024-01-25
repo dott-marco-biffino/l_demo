@@ -16,7 +16,7 @@ Ai fini del calcolo di tale quantità occorrono i seguenti elementi:
 
 - il tempo durante il quale il suddetto incremento si manifesta, con le convenzioni adottate semplicemente $t$.
 
-### 3.1 Criteri per la determinazione del tasso di incremento
+## Criteri per la determinazione del tasso di incremento
 
 Per ognuno dei tre criteri che seguono scriviamo l'equazione di sviluppo della  popolazione, cioè la legge dipendente dal tempo e dal tasso di incremento che consente di calcolare l'ammontare della popolazione ad una data  futura a partire dalla consistenza di quella corrente. 
 
@@ -62,10 +62,10 @@ Dividendo, quindi, per $t$ ricaviamo il tasso esponenziale $$ r = \frac{1}{t}\ln
 
 Si noti che il tasso di incremento esponenziale presuppone che ogni unità aggiunta  contribuisca alla successiva variazione della popolazione, mentre il tasso geometrico presuppone che ogni unità aggiunta (o sottratta) concorra alla variazione solo a partire dall'anno successivo.
 
-### 3.2 Esempi su equazioni di sviluppo della popolazione e tassi di incremento
+## Esempi su equazioni di sviluppo della popolazione e tassi di incremento
 
-#### Esempio 1
+### Esempio 1
 
 
 
-### 3.3 Codice R su equazioni di sviluppo della popolazione e tassi di incremento
+## Codice R su equazioni di sviluppo della popolazione e tassi di incremento

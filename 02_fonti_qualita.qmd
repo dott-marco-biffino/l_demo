@@ -8,7 +8,7 @@ title: "Fonti e qualità dei dati"
 
 **Attendibilità ed errori**: fattori che concorrono a determinare la rispondenza del dato statistico alla realtà che esso dovrebbe descrivere.
 
-### 2.1 Fonti dei dati di stato
+## Fonti dei dati di stato
 
 **Censimento della popolazione**: operazione di conteggio della popolazione presente in un dato territorio avente le seguenti caratteristiche
 
@@ -56,7 +56,7 @@ In un censimento si possono verificare errori:
   
   - la rilevazione degli altri caratteri demografici (stato civile, luogo residenza...) presentano difficoltà di vario tipo. Nei censimenti moderni, tuttavia, la qualità di queste rilevazioni è soddisfacente.
   
-### 2.2 Fonti dei dati di flusso
+## Fonti dei dati di flusso
 
 In Europa la registrazione continua di nascite, decessi e matrimoni ha una lunga tradizione, che in alcuni casi risale all'alto medioevo.
 

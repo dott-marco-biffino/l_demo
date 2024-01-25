@@ -3,7 +3,7 @@
 ---
 
 ## Misura dell'età e del tempo
-
+data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAWElEQVR42mNgGPTAxsZmJsVqQApgmGw1yApwKcQiT7phRBuCzzCSDSHGMKINIeDNmWQlA2IigKJwIssQkHdINgxfmBBtGDEBS3KCxBc7pMQgMYE5c/AXPwAwSX4lV3pTWwAAAABJRU5ErkJggg==
 Tanto per la **misura dell'età** quanto per il **tempo** è possibile utilizzare vari criteri al fine di collocare le persone e gli eventi:
 
 - *arrotondamento al compleanno più vicino*, in tal caso una persona che dichiara 20 anni può avere vissuto da 19 anni e mezzo fino a 20 anni e mezzo meno un istante;
@@ -56,11 +56,13 @@ Chiamiamo **coorte** un'insieme di persone che hanno vissuto un certo evento ori
 
 ![Generazioni e contemporanei in un diagramma di Lexis](figures/generazione_contemporanei.png){#fig-gc}
 
-Metodi di analisi:
+## Metodi di analisi
 
 - **analisi longitudinale o per generazione o coorte**: quando una generazione o coorte viene seguita nel tempo fino alla completa estinzione. Tale tipo di analisi può essere condotta in modo prospettivo, cioè dall'origine all'estinzione della generazione, oppure in modo retrospettivo, cioè ricostruendo la storia della generazione a ritroso a partire da un preciso istante intervistando i sopravvissuti.
 
 - **analisi trasversale o per contemporanei**: quando l'osservazione viene ristretta ad un intervallo di tempo, per esempio un anno, ed estesa a tutte le classi di età.
+
+## Concetti fondamentali
 
 **Intensità**: misura la frequenza degli eventi caratterizzanti un fenomeno demografico nel ciclo di vita di una generazione come numero medio di eventi per componente;
 
