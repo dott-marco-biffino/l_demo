@@ -27,3 +27,8 @@ bibliography: bibliografia.bib
 format:
   html:
     theme: cosmo
+
+lang: it 
+language: 
+  it:
+    crossref-sec-prefix: "Paragrafo"
